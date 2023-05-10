@@ -1,0 +1,2 @@
+*.fits filter=lfs diff=lfs merge=lfs -text
+data/skads_redshift_flux_dim.txt filter=lfs diff=lfs merge=lfs -text
